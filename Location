@@ -1,0 +1,7 @@
+SELECT TOP 1000 [LOCATION_NUM]
+      ,[LOCATION_NAME]
+      ,[ADDRESS]
+      ,[CITY]
+      ,[STATE]
+      ,[POSTAL_CODE]
+  FROM [SolmarisCondo].[dbo].[LOCATION]
