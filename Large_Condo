@@ -1,0 +1,7 @@
+SELECT TOP 1000 [LOCATION_NUM]
+      ,[UNIT_NUM]
+      ,[BDRMS]
+      ,[BATHS]
+      ,[CONDO_FEE]
+      ,[OWNER_NUM]
+  FROM [SolmarisCondo].[dbo].[LARGE_CONDO]
